@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShablonD12part2", "ShablonD12part2\ShablonD12part2.csproj", "{E4918A4C-432D-434A-9DAA-719DCDE7D31C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E4918A4C-432D-434A-9DAA-719DCDE7D31C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4918A4C-432D-434A-9DAA-719DCDE7D31C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4918A4C-432D-434A-9DAA-719DCDE7D31C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4918A4C-432D-434A-9DAA-719DCDE7D31C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E3F4640B-9022-4EAE-B964-FD643AC5382F}
+	EndGlobalSection
+EndGlobal

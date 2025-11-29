@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\ShablonD12part2\ShablonD12part2\bin\Debug\net6.0\ShablonD12part2.exe
+C:\Users\User\source\repos\ShablonD12part2\ShablonD12part2\bin\Debug\net6.0\ShablonD12part2.deps.json
+C:\Users\User\source\repos\ShablonD12part2\ShablonD12part2\bin\Debug\net6.0\ShablonD12part2.runtimeconfig.json
+C:\Users\User\source\repos\ShablonD12part2\ShablonD12part2\bin\Debug\net6.0\ShablonD12part2.dll
+C:\Users\User\source\repos\ShablonD12part2\ShablonD12part2\bin\Debug\net6.0\ShablonD12part2.pdb
+C:\Users\User\source\repos\ShablonD12part2\ShablonD12part2\obj\Debug\net6.0\ShablonD12part2.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\ShablonD12part2\ShablonD12part2\obj\Debug\net6.0\ShablonD12part2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\ShablonD12part2\ShablonD12part2\obj\Debug\net6.0\ShablonD12part2.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ShablonD12part2\ShablonD12part2\obj\Debug\net6.0\ShablonD12part2.AssemblyInfo.cs
+C:\Users\User\source\repos\ShablonD12part2\ShablonD12part2\obj\Debug\net6.0\ShablonD12part2.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ShablonD12part2\ShablonD12part2\obj\Debug\net6.0\ShablonD12part2.dll
+C:\Users\User\source\repos\ShablonD12part2\ShablonD12part2\obj\Debug\net6.0\refint\ShablonD12part2.dll
+C:\Users\User\source\repos\ShablonD12part2\ShablonD12part2\obj\Debug\net6.0\ShablonD12part2.pdb
+C:\Users\User\source\repos\ShablonD12part2\ShablonD12part2\obj\Debug\net6.0\ShablonD12part2.genruntimeconfig.cache
+C:\Users\User\source\repos\ShablonD12part2\ShablonD12part2\obj\Debug\net6.0\ref\ShablonD12part2.dll
